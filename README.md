@@ -1,3 +1,3 @@
 # hello-world
-a new repository
-add some changes
+a new repository \n
+I'd like to add some changes.
